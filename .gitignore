@@ -1,0 +1,20 @@
+# Actual local configuration
+/config/config.php
+
+# Composer dependencies
+/vendor/
+
+# Environment configuration
+.env
+
+# Editor folders
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Temporary and log files
+*.log
+*.tmp
